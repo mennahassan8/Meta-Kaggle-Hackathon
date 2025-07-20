@@ -1,4 +1,4 @@
-# Meta-Kaggle-Hackathon
+# Meta Kaggle Hackathon 2025
 For Meta Kaggle Hackathon, I analyzed Kernels and Competitions datasets to learn about community and coding habits changes over time. This was not just about analyzing numbers. It was about understanding how people learn, compete, and grow together through data.
 
 Using the Meta Kaggle datasets, I looked into things like how many kernels (code notebooks) were being created, how much code lines was written, how team sizes shifted, and what kinds of rewards seemed to drive engagement. These metrics helped me piece together a broader view of what really keeps the Kaggle community active.
