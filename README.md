@@ -13,7 +13,7 @@ This project helped me appreciate the Kaggle community on a deeper level — not
 ● Python 
 ● Pandas 
 
-# DataSets
+# DataSets 
 ● [Kernel Versions](https://www.kaggle.com/datasets/kaggle/meta-kaggle?select=KernelVersions.csv)
 ● [Kernels](https://www.kaggle.com/datasets/kaggle/meta-kaggle?select=Kernels.csv)
 ● [Competitions](https://www.kaggle.com/datasets/kaggle/meta-kaggle?select=Competitions.csv)
